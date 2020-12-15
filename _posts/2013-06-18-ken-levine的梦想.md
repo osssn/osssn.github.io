@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ken Levine的梦想
 date: '2013-06-18T02:16:34-04:00'
 tags:

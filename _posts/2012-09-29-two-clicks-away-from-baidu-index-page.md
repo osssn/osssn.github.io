@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Two Clicks Away From Baidu Index Page
 date: '2012-09-29T06:37:42-04:00'
 tags:

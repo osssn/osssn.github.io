@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: New Desktop
 date: '2012-02-21T23:50:16-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Notebook Product
 date: '2012-04-26T08:09:01-04:00'
 tags:

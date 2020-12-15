@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Pictures and vision
 date: '2012-05-31T00:49:12-04:00'
 tags:

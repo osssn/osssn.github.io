@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Top Gun: Hard Lock, 2012'
 date: '2012-06-03T13:12:58-04:00'
 tags:

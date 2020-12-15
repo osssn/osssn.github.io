@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Hunger Games, 2012
 date: '2012-08-12T12:46:00-04:00'
 tags:

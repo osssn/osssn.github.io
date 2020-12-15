@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Life of David Gale, 2003
 date: '2012-01-30T12:28:00-05:00'
 tags:

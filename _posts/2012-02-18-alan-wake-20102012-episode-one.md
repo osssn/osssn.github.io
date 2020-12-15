@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Alan Wake, 2010/2012. Episode One
 date: '2012-02-18T07:19:00-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Twitter Index Image
 date: '2012-05-30T00:49:00-04:00'
 tags:

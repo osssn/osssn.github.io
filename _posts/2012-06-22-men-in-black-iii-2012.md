@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Men in Black III, 2012
 date: '2012-06-22T11:12:00-04:00'
 tags:

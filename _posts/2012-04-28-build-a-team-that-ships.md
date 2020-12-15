@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Build a Team that Ships
 date: '2012-04-28T01:36:36-04:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: the last of US
 date: '2011-12-18T11:12:00-05:00'
 tags:

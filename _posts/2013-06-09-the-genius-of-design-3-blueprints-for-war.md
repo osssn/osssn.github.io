@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: the genius of design 3 blueprints for war
 date: '2013-06-09T14:56:49-04:00'
 tags:

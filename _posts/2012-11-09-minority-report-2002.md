@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Minority Report, 2002
 date: '2012-11-09T23:44:57-05:00'
 tags:

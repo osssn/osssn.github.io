@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Mission: Impossible - Ghost Protocol, 2011'
 date: '2012-03-31T14:06:00-04:00'
 tags:

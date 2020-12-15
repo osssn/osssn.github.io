@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Sherlock Holmes: A Game of Shadows, 2011'
 date: '2012-06-27T12:24:27-04:00'
 tags:

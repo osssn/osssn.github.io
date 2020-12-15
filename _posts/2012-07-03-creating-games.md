@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Creating Games
 date: '2012-07-03T11:31:34-04:00'
 tags:

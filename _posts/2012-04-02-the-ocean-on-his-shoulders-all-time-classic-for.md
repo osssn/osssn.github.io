@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Ocean on his Shoulders - All Time Classic for Gamers
 date: '2012-04-02T01:24:00-04:00'
 tags:

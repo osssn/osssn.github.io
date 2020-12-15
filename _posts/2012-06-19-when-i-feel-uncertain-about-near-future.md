@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: When I feel uncertain about near future.
 date: '2012-06-19T09:50:00-04:00'
 tags:

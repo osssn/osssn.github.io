@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: To Rome with Love, 2012
 date: '2012-11-12T08:17:11-05:00'
 tags:

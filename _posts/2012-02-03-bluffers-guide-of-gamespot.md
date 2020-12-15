@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bluffer's guide, of gamespot
 date: '2012-02-03T01:59:00-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Call of Duty: World at War, 2008'
 date: '2013-05-04T05:42:00-04:00'
 tags:

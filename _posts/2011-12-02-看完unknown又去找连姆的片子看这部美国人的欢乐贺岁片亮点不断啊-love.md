@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 看完unknown又去找连姆的片子看这部美国人的欢乐贺岁片亮点不断啊 love
 date: '2011-12-02T05:20:36-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Metro: Last Light, 2013'
 date: '2013-05-28T01:48:05-04:00'
 tags:

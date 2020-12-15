@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Testing, testing
 date: '2012-04-26T07:58:02-04:00'
 tags:

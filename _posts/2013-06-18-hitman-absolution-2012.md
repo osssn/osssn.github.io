@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Hitman Absolution, 2012
 date: '2013-06-18T04:23:15-04:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How can you know if your design is good.
 date: '2012-06-04T09:23:22-04:00'
 tags:

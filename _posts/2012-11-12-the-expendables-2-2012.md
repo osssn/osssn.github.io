@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Expendables 2, 2012
 date: '2012-11-12T08:38:24-05:00'
 tags:

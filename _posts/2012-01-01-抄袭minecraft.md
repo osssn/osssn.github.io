@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 抄袭Minecraft
 date: '2012-01-01T09:32:19-05:00'
 tags:

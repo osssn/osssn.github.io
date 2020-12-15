@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Twelve Monkeys, 1995
 date: '2012-11-10T04:51:00-05:00'
 tags:

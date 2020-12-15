@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Johnny English Reborn, 2011
 date: '2012-02-18T10:55:43-05:00'
 tags:

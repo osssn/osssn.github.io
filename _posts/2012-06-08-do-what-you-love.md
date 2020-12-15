@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Do What You Love
 date: '2012-06-08T04:08:24-04:00'
 tags:

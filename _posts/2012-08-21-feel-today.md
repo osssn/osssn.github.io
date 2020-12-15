@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Feel Today
 date: '2012-08-21T12:57:32-04:00'
 tags:

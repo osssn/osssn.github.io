@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: How Google Sucks in UI Compared to Apple
 date: '2012-07-01T11:19:32-04:00'
 tags:

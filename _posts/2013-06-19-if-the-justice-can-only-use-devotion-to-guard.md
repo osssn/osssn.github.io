@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: if the justice can only use devotion to guard
 date: '2013-06-19T00:23:00-04:00'
 tags:

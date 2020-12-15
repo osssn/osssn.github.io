@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'The Godfather: Part Ⅱ, 1974'
 date: '2012-11-29T05:26:42-05:00'
 tags:

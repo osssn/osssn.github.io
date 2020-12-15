@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Space Pirates and Zombies, 2012
 date: '2013-05-15T12:38:42-04:00'
 tags:

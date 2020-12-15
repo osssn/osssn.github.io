@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Ides of March, 2011
 date: '2012-01-03T12:29:00-05:00'
 tags:

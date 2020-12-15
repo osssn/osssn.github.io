@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: WESTLIFE - Greatest Hits
 date: '2011-11-27T12:54:00-05:00'
 tags:

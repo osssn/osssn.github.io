@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: baidu ting
 date: '2012-04-28T01:31:22-04:00'
 tags:

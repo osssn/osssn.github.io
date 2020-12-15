@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Truman Show, 1998
 date: '2012-03-27T11:41:41-04:00'
 tags:

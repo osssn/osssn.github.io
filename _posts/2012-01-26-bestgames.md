@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 我玩过的最佳游戏排行
 date: '2012-01-26T02:03:00-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Spec Ops The Line, 2012
 date: '2012-07-03T00:34:40-04:00'
 tags:

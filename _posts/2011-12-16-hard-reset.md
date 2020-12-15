@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Hard Reset
 date: '2011-12-16T11:26:00-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Unsere Mütter, unsere Väter, 2013
 date: '2013-04-21T12:08:00-04:00'
 tags:

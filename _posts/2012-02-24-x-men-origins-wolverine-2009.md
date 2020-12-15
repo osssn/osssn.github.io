@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'X-Men Origins: Wolverine, 2009'
 date: '2012-02-24T14:35:49-05:00'
 tags:

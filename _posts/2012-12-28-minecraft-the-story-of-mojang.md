@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Minecraft: The Story of Mojang'
 date: '2012-12-28T11:11:11-05:00'
 tags: []

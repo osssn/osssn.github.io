@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'X-Men: The Last Stand, 2006'
 date: '2012-02-18T06:26:53-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Into The Wild
 date: '2011-11-23T08:41:00-05:00'
 tags:

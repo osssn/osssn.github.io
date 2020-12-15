@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Lara Croft and the Guardian of Light, 2010
 date: '2013-04-28T09:02:57-04:00'
 tags:

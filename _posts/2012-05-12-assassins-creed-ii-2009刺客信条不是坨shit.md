@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Assassin's Creed II, 2009（刺客信条不是坨shit）
 date: '2012-05-12T12:16:00-04:00'
 tags:

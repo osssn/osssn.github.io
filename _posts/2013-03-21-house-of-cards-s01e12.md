@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: House of Cards, S01E12
 date: '2013-03-21T23:05:32-04:00'
 tags:

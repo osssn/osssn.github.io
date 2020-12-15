@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'The Hobbit: An Unexpected Journey, 2012'
 date: '2013-02-23T02:42:12-05:00'
 tags:

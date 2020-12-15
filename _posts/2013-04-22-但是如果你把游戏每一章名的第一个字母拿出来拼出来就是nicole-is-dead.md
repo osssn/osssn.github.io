@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 但是如果你把游戏每一章名的第一个字母拿出来，拼出来就是Nicole is dead
 date: '2013-04-22T12:35:39-04:00'
 tags:

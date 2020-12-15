@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ridge Racer Unbounded, 2012
 date: '2012-10-27T05:11:02-04:00'
 tags:

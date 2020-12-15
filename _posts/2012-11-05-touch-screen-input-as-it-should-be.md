@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Touch Screen Input As It Should be
 date: '2012-11-05T22:35:37-05:00'
 tags:

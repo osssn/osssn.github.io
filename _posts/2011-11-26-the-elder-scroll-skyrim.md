@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'The Elder Scroll: Skyrim'
 date: '2011-11-26T08:27:00-05:00'
 tags:

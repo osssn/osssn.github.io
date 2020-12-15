@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sometimes, a simple thanks would suffice.
 date: '2013-04-13T03:35:00-04:00'
 tags:

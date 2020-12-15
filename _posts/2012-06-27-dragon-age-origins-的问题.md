@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dragon Age Origins 的问题
 date: '2012-06-27T09:28:22-04:00'
 tags:

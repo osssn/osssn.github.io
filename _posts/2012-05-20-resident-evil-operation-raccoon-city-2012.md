@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Resident Evil Operation Raccoon City, 2012
 date: '2012-05-20T12:05:32-04:00'
 tags:

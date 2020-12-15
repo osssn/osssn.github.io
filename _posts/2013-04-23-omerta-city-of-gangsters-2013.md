@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Omerta: City of Gangsters, 2013'
 date: '2013-04-23T12:26:00-04:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Bourne Legacy, 2012
 date: '2012-12-01T07:43:00-05:00'
 tags:

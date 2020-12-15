@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: warrior 2011 mma教育片tom hardy相当tough
 date: '2011-12-16T12:17:36-05:00'
 tags:

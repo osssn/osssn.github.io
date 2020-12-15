@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Medal of Honor Warfighter, 2012
 date: '2012-11-12T08:27:58-05:00'
 tags:

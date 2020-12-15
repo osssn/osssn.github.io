@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Lethal Hostage, 2012
 date: '2012-10-27T05:43:09-04:00'
 tags:

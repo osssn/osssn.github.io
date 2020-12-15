@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: chrome://flags
 date: '2012-04-28T09:36:38-04:00'
 tags:

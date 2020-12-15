@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: House of Cards, S01
 date: '2013-03-21T23:02:11-04:00'
 tags:

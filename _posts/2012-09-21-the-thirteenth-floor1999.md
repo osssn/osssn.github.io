@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Thirteenth Floor，1999
 date: '2012-09-21T12:06:00-04:00'
 tags:

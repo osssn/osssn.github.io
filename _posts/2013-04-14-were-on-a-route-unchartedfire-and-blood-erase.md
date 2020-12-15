@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: |-
   We’re on a route uncharted,fire and blood erase our tracks.
 

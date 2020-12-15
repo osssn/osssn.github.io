@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Batman: Arkham City - Harley Quinn''s Revenge, 2012'
 date: '2012-05-31T13:48:25-04:00'
 tags:

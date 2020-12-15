@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: GameSpot, Best of 2011
 date: '2011-12-24T11:22:00-05:00'
 tags:

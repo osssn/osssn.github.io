@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Kingdoms of Amalur: Reckoning, 2012'
 date: '2012-05-19T13:41:00-04:00'
 tags:

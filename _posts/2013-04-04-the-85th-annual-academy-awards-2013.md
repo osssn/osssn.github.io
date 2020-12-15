@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: the 85th annual academy awards 2013
 date: '2013-04-04T08:01:20-04:00'
 tags:

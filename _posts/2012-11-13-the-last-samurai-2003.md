@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Last Samurai, 2003
 date: '2012-11-13T03:03:51-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: diane kruger最美一张liam neeson绿叶了 unkonwn
 date: '2011-11-23T21:54:00-05:00'
 tags:

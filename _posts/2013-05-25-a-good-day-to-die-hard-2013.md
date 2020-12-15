@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A Good Day to Die Hard, 2013
 date: '2013-05-25T08:08:00-04:00'
 tags:

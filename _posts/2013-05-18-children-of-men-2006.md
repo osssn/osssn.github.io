@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Children of Men, 2006
 date: '2013-05-18T12:39:51-04:00'
 tags:

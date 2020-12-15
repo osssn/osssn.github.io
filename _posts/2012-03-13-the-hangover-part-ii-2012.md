@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Hangover Part II, 2012
 date: '2012-03-13T08:04:13-04:00'
 tags:

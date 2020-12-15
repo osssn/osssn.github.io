@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'E3 2012: Gamespot Editors'' Choice'
 date: '2012-06-09T12:49:11-04:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'E3 2012: Microsoft, Sony'
 date: '2012-06-08T03:28:35-04:00'
 tags:

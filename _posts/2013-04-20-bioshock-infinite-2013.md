@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bioshock Infinite, 2013
 date: '2013-04-20T06:19:41-04:00'
 tags:

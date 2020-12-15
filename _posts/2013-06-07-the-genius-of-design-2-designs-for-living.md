@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: the genius of design 2 designs for living
 date: '2013-06-07T00:02:00-04:00'
 tags: []

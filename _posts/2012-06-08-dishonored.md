@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dishonored
 date: '2012-06-08T09:24:51-04:00'
 tags:

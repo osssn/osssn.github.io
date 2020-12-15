@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Deus Ex: Human Revolution, 2011'
 date: '2012-10-27T05:04:28-04:00'
 tags:

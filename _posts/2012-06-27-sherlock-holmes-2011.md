@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sherlock Holmes, 2011
 date: '2012-06-27T09:38:00-04:00'
 tags:

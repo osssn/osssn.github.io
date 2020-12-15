@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Dungeon Siege III，2011
 date: '2013-06-01T11:13:00-04:00'
 tags:

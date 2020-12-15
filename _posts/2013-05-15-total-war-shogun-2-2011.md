@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Total War: Shogun 2, 2011'
 date: '2013-05-15T09:52:00-04:00'
 tags:

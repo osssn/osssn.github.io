@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: OSCAR, Red Carpet Live
 date: '2012-03-08T05:42:00-05:00'
 tags:

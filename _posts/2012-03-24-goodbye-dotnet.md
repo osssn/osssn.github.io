@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Goodbye dotNet
 date: '2012-03-24T02:50:16-04:00'
 tags:

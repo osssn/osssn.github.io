@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: what’s right when nothing is left?
 date: '2013-02-03T09:57:33-05:00'
 tags:

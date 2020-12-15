@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Dark Knight, 2008
 date: '2012-05-18T14:03:00-04:00'
 tags:

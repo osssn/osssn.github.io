@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: |-
   What does “best” mean? When you’re talking about art and entertainment, the answer isn’t that easy. Is “best” different from “favorite?” Is “welcoming” more important than “challenging?” These are but a few of the questions we asked each other as we went head-to-head in a GameSpot meeting room, staring each other down and passionately arguing for our personal choices for 2011’s Game of the Year.
 

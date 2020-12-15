@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Google Contacts
 date: '2012-06-20T22:52:26-04:00'
 tags:

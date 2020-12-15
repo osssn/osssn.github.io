@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Transformers: Dark of the Moon, 2011'
 date: '2012-02-08T01:43:00-05:00'
 tags:

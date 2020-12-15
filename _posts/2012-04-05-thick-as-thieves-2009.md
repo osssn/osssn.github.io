@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Thick as Thieves, 2009
 date: '2012-04-05T12:48:48-04:00'
 tags:

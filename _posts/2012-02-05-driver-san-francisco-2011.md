@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Driver: San Francisco, 2011'
 date: '2012-02-05T10:29:26-05:00'
 tags:

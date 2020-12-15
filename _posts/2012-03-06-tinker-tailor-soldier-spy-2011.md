@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Tinker Tailor Soldier Spy, 2011
 date: '2012-03-06T12:47:54-05:00'
 tags:

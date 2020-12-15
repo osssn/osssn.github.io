@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Resident Evil Damnation, 2012
 date: '2012-10-05T03:34:04-04:00'
 tags:

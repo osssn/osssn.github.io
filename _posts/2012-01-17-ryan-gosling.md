@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ryan Gosling
 date: '2012-01-17T11:06:00-05:00'
 tags:

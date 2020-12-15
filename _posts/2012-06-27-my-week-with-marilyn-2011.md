@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: My Week with Marilyn, 2011
 date: '2012-06-27T09:29:11-04:00'
 tags:

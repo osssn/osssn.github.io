@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Midnight in Paris, 2011
 date: '2011-12-21T00:34:13-05:00'
 tags:

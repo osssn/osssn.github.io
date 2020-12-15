@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: My Notebooks
 date: '2012-06-04T13:19:43-04:00'
 tags:

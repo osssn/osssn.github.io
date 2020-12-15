@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Avril Lavigne
 date: '2012-03-24T03:52:00-04:00'
 tags:

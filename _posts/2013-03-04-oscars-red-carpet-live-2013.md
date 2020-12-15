@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: oscars red carpet live 2013
 date: '2013-03-04T20:34:12-05:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Back To Music
 date: '2012-07-21T11:37:46-04:00'
 tags:

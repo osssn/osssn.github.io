@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Assassin’s Creed III, 2012
 date: '2012-12-01T07:47:44-05:00'
 tags:

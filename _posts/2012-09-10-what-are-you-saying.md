@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: What are you saying
 date: '2012-09-10T05:25:00-04:00'
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: House of Cards, S01E06
 date: '2013-03-23T04:09:50-04:00'
 tags:

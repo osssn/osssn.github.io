@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Call of Duty OL Announced
 date: '2012-07-03T13:43:00-04:00'
 tags:

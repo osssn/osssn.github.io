@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: no title
 date: '2012-09-15T10:18:18-04:00'
 tags:

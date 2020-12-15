@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Silver Linings Playbook, 2012
 date: '2013-04-03T01:29:00-04:00'
 tags:

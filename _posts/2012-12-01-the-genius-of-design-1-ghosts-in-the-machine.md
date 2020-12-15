@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Genius of Design 1 Ghosts in the Machine
 date: '2012-12-01T11:11:00-05:00'
 tags: []

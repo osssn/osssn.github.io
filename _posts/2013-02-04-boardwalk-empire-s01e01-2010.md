@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Boardwalk Empire S01E01， 2010
 date: '2013-02-04T12:16:15-05:00'
 tags:

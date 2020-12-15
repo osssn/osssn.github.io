@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Descendants, 2011
 date: '2012-03-05T12:08:00-05:00'
 tags:

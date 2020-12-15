@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Just for Fun
 date: '2012-02-02T11:17:20-05:00'
 tags:

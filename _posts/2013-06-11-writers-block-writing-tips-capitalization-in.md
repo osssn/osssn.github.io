@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Writer's Block - Writing Tips - Capitalization in Titles
 date: '2013-06-11T09:51:00-04:00'
 tags:

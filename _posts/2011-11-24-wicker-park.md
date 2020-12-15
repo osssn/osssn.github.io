@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Wicker Park
 date: '2011-11-24T12:48:15-05:00'
 tags:

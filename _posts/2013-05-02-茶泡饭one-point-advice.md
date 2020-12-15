@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: '茶泡饭。One Point Advice: 茶在泡饭之前要煮开，以个人喜好放菜、海苔、梅乾、鲑鱼、鳕子等。茶我用的是普洱。为保证逼真效果加了梅子，我操，真难吃。'
 date: '2013-05-02T07:10:28-04:00'
 tags: []

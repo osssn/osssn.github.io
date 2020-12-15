@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Safari Reader
 date: '2012-03-13T13:21:00-04:00'
 tags:

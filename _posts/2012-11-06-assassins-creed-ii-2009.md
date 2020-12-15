@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Assassin’s Creed II, 2009
 date: '2012-11-06T02:43:54-05:00'
 tags:

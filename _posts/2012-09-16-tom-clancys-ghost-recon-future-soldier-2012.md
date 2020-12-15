@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Tom Clancy''s Ghost Recon: Future Soldier, 2012'
 date: '2012-09-16T12:18:33-04:00'
 tags:

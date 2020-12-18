@@ -8,6 +8,9 @@
 a {
     text-decoration: none;
 }
+.archive .entries-list h2:first-of-type {
+    margin-top: 0;
+}
 .custom-red, .sidebar .social-icons .custom-red {
     color: red;
 }

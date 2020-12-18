@@ -34,6 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,14 +60,11 @@ plugins:
 logo: "/assets/img/ocean.png"
 author:
   name: "Ocean"
-  avatar: "/assets/img/ocean.png"
+  bio: "This is some random stuff I wrote since I was a child. Check out some more serious stuff below :point_down:"
   links:
     - label: "Noob Coding"
       icon: "fas fa-heart custom-red"
       url: "https://www.noobcoding.com"
-    - label: "Github"
-      icon: "fab fa-github"
-      url: "https://github.com/oceanlau"
 
 # Other pages
 tag_archive:

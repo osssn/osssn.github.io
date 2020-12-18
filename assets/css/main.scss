@@ -5,10 +5,7 @@
 @charset "utf-8";
 
 // Some custom classes
-.custom-red {
-    color: red;
-}
-.social-icons .custom-red {
+.custom-red, .sidebar .social-icons .custom-red {
     color: red;
 }
 

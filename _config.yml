@@ -55,6 +55,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# For posts
 defaults:
   # _posts
   - scope:
@@ -63,3 +64,10 @@ defaults:
     values:
       layout: single
       show_date: true
+
+# For Google Analyitcs
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-164859401-2"
+    anonymize_ip: false # default

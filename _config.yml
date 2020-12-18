@@ -33,9 +33,12 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
   - jemoji
 
+include:
+  - _pages
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -59,12 +62,23 @@ plugins:
 # Author info and sidebar
 logo: "/assets/img/ocean.png"
 author:
-  name: "Ocean"
-  bio: "This is some random stuff I wrote since I was a child. Check out some more serious stuff below :point_down:"
+  name: "Hey! Ocean here."
+  bio: "These are some random stuff I wrote since I was a kid. Please cooperate and don't read. But do check out some more serious stuff below &darr;"
   links:
     - label: "Noob Coding"
       icon: "fas fa-heart custom-red"
       url: "https://www.noobcoding.com"
+
+# Site Footer
+footer:
+  links:
+    - label: "My GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/oceanlau"
+
+# Outputting
+permalink: /posts/:title/
+paginate: 15
 
 # Other pages
 tag_archive:
@@ -81,6 +95,13 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # For Google Analyitcs
 analytics:

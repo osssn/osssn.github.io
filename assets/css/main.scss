@@ -11,7 +11,7 @@ a {
 .layout--home h1 {
     display: none;
 }
-.archive .entries-list h2:first-of-type {
+.list__item:first-child h2 {
     margin-top: 0;
 }
 .custom-red, .sidebar .social-icons .custom-red {

@@ -4,7 +4,6 @@ title: chrome://flags
 date: '2012-04-28T09:36:38-04:00'
 tags:
 - web
-- product
 tumblr_url: https://rapturer.tumblr.com/post/21975049011/chromeflags
 ---
 在里面找到了手柄选项！

@@ -3,7 +3,6 @@ layout: single
 title: baidu ting
 date: '2012-04-28T01:31:22-04:00'
 tags:
-- product
 - web
 tumblr_url: https://rapturer.tumblr.com/post/21962515852/baidu-ting
 ---

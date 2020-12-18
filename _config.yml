@@ -62,8 +62,8 @@ include:
 # Author info and sidebar
 logo: "/assets/img/ocean.png"
 author:
-  name: "Hey! Ocean here."
-  bio: "These are some random stuff I wrote since I was a kid. Please cooperate and don't read. But do check out some more serious stuff below &darr;"
+  name: "Welcome to Rapture!"
+  bio: "These are some random stuff I wrote since I was a kid. Please cooperate and don't read them. But do check out some more serious stuff below &darr;"
   links:
     - label: "Noob Coding"
       icon: "fas fa-heart custom-red"
@@ -79,7 +79,7 @@ footer:
 # Outputting
 permalink: /posts/:title/
 paginate: 15
-paginate_path: /page:num/
+paginate_path: /_pages/page:num/
 
 # Other pages
 tag_archive:

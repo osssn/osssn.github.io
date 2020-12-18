@@ -14,6 +14,9 @@ a {
 .list__item:first-child h2 {
     margin-top: 0;
 }
+.list__item article {
+    padding-bottom: 1em;
+}
 .custom-red, .sidebar .social-icons .custom-red {
     color: red;
 }

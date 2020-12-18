@@ -79,7 +79,6 @@ footer:
 # Outputting
 permalink: /posts/:title/
 paginate: 15
-paginate_path: /_pages/page:num/
 
 # Other pages
 tag_archive:

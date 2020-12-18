@@ -3,7 +3,7 @@ layout: single
 title: Twitter Index Image
 date: '2012-05-30T00:49:00-04:00'
 tags:
-- self
+- story
 tumblr_url: https://rapturer.tumblr.com/post/24047547722/twitter-index-image
 ---
 ![](/assets/img/tumblr_m4tk0bxqn71r0cnr9.jpg)

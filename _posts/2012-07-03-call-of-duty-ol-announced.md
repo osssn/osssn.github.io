@@ -4,7 +4,7 @@ title: Call of Duty OL Announced
 date: '2012-07-03T13:43:00-04:00'
 tags:
 - game
-- self
+- story
 tumblr_url: https://rapturer.tumblr.com/post/26429999295/call-of-duty-ol-announced
 ---
 今天太不平静了，竟然不是因为什么梦啊什么的，而是腾讯发新闻说宣布和动视合作发布使命召唤OL。

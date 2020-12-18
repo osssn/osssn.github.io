@@ -3,7 +3,7 @@ layout: single
 title: the genius of design 3 blueprints for war
 date: '2013-06-09T14:56:49-04:00'
 tags:
-- film
+- movie
 tumblr_url: https://rapturer.tumblr.com/post/52563438795/the-genius-of-design-3-blueprints-for-war
 ---
  ![](/assets/img/tumblr_mo53ap0BBb1r6af0jo9_1280.jpg)  

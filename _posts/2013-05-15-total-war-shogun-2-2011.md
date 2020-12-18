@@ -3,7 +3,7 @@ layout: single
 title: 'Total War: Shogun 2, 2011'
 date: '2013-05-15T09:52:00-04:00'
 tags:
-- gaming
+- game
 tumblr_url: https://rapturer.tumblr.com/post/50495531914/total-war-shogun-2-2011
 ---
 从2000年的shogun开创全战这一品牌，10年一个轮回，幕府将军2再次创造即时战略游戏的高峰。

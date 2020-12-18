@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "My GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github custom-white"
       url: "https://github.com/oceanlau"
 
 # Outputting

@@ -3,7 +3,7 @@ layout: single
 title: Unsere Mütter, unsere Väter, 2013
 date: '2013-04-21T12:08:00-04:00'
 tags:
-- Television
+- TV show
 tumblr_url: https://rapturer.tumblr.com/post/48532358238/unsere-m%C3%BCtter-unsere-v%C3%A4ter-2013
 ---
 > Most people think, that war mainly consists of fighting.

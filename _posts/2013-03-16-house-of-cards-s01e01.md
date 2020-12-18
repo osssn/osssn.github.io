@@ -3,7 +3,7 @@ layout: single
 title: House of Cards, S01E01
 date: '2013-03-16T09:56:00-04:00'
 tags:
-- Television
+- TV show
 tumblr_url: https://rapturer.tumblr.com/post/45496575961/house-of-cards-s01e01
 ---
 > When you don’t involve me we are in free fall.

@@ -5,11 +5,14 @@
 @charset "utf-8";
 
 // Some custom classes
+a {
+    text-decoration: none;
+}
 .custom-red, .sidebar .social-icons .custom-red {
     color: red;
 }
-a {
-    text-decoration: none;
+.custom-white, footer social-icons .custom-white {
+    color: white;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

@@ -3,7 +3,7 @@ layout: single
 title: Bluffer's guide, of gamespot
 date: '2012-02-03T01:59:00-05:00'
 tags:
-- self
+- story
 tumblr_url: https://rapturer.tumblr.com/post/16966308314/bluffers-guide-of-gamespot
 ---
 突然发现我最喜欢的gamespot的节目a Bluffer’s guide因为名字存在版权问题，被迫暂改为B\*\*\*\*\*\*‘s guide。我也没有google出来他到底侵了谁的权，因为网上有一堆Bluffer’s guide，貌似是一本书？我最喜欢这种又幽默又有教育意义的节目了，不幽默我不会看，没教育意义就是脑残，我更不会看。

@@ -3,7 +3,7 @@ layout: single
 title: Notebook Product
 date: '2012-04-26T08:09:01-04:00'
 tags:
-- self
+- story
 - product
 tumblr_url: https://rapturer.tumblr.com/post/21844622418/notebook-product
 ---

@@ -3,7 +3,7 @@ layout: single
 title: Dungeon Siege III，2011
 date: '2013-06-01T11:13:00-04:00'
 tags:
-- gaming
+- game
 tumblr_url: https://rapturer.tumblr.com/post/51885899080/dungeon-siege-iii2011
 ---
 一部中规中矩的暗黑风RPG。

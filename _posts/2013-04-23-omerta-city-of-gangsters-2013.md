@@ -3,7 +3,7 @@ layout: single
 title: 'Omerta: City of Gangsters, 2013'
 date: '2013-04-23T12:26:00-04:00'
 tags:
-- Gaming
+- game
 tumblr_url: https://rapturer.tumblr.com/post/48699892918/omerta-city-of-gangsters-2013
 ---
 基本上就是一个海岛大亨的小游戏mod。

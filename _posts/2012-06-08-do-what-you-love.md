@@ -4,7 +4,7 @@ title: Do What You Love
 date: '2012-06-08T04:08:24-04:00'
 tags:
 - story
-- text
+- story
 - game
 tumblr_url: https://rapturer.tumblr.com/post/24668776317/do-what-you-love
 ---

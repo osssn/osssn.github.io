@@ -4,7 +4,6 @@ title: WESTLIFE - Greatest Hits
 date: '2011-11-27T12:54:00-05:00'
 tags:
 - music
-- history
 tumblr_url: https://rapturer.tumblr.com/post/13407538012/westlife-greatest-hits
 ---
 ![](/assets/img/tumblr_lvbyv4f1wy1r0cnr9.jpg)

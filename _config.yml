@@ -66,7 +66,11 @@ author:
   bio: "These are some random stuff I wrote since I was a kid. Please cooperate and don't read them. But do check out some more serious stuff below &darr;"
   links:
     - label: ":heart: Noob Coding"
+      icon: ""
       url: "https://www.noobcoding.com"
+    - label: ":orange_book: Noob Reading"
+      icon: ""
+      url: "https://oceanliu.gitbook.io/noob-reading"
 
 # Site Footer
 footer:

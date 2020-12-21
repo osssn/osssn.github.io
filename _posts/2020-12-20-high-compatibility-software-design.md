@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "High Compatibility Software Design Pattern"
+title:  "High Compatibility Software Design"
 date:   2020-12-20 22:14:00 -0500
 tags:
 - story

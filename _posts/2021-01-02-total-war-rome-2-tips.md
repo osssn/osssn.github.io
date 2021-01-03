@@ -64,3 +64,4 @@ Though it's unlikely that I will play through the whole campaign again, I still 
 
 1. The order of technology really does not matter that much. It all depends on your play style.
 2. Choosing skills for army/fleet/agents/generals can be very tiring and brings little benefits. So I only choose those related to my play style and ignore others.
+3. Dipomacy is quite easy. Get trade agreements as more as you can. Use non-aggression pact to protect your rear. Military alliances and client states also count toward victory condition so use that.

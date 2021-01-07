@@ -14,29 +14,23 @@ tags:
 
   Infantry with spears and shields. Often fight in phalanx formation. Originated from Ancient Greek city-states.
 
-- Equites
+- Equites ![Equites](/assets/img/Rom_Equites.png)
 
-  ![Equites](/assets/img/Rom_Equites.png) Almost the highest rank in the property-based classes of Rome, just below the senatorial class. They served as cavalry.
+  Almost the highest rank in the property-based classes of Rome, just below the senatorial class. They served as cavalry.
 
 ## Manipular legion (mid Roman republic, 315-107 BC)
 
 ### 3 core heavy infantry types
 
-  - Hastati
-
-    ![Hastati](/assets/img/Rom_Hastati.png)
+  - Hastati ![Hastati](/assets/img/Rom_Hastati.png)
 
     First line. Poor or young men who could only afford modest armor. Originally wielding a *hasta* (spear). Later supplied with a *gladius* (short stabbing sword), a *scutum* (squared wooden shield), and one or two *pila* (throwing spear).
 
-  - Principes
-
-    ![Principes](/assets/img/Rom_Principes.png)
+  - Principes ![Principes](/assets/img/Rom_Principes.png)
 
     Second line. Wealthy men with decent armor. Same weapon as the hastati.
 
-  - Triarii
-
-    ![Triarii](/assets/img/Rom_Triarii.png)
+  - Triarii ![Triarii](/assets/img/Rom_Triarii.png)
 
     Third line. Old and wealthy men with high quality armor. Equipped with spears.
 
@@ -47,23 +41,17 @@ tags:
 
 ### Support types
 
-  - Velites
-
-    ![Velites](/assets/img/Rom_Velites.png)
+  - Velites ![Velites](/assets/img/Rom_Velites.png)
 
     Front line light infantry and skirmisher. Youngest and poorest with no armor. Equipped with darts (javelin), a *gladius* and a *parma* (small wooden shield). Descended from earlier class of Leves.
 
   - Equites
 
-  - Rorarii
-
-    ![Rorarii](/assets/img/Rom_Rorarii.png)
+  - Rorarii ![Rorarii](/assets/img/Rom_Rorarii.png)
 
     Final line reserve infantry. Usually the poorest with no much fighting capabilities.
 
-  - Socii and Latini
-
-    ![Socii and Latini](/assets/img/Aux_Ita_Socii_Hastati.png)
+  - Socii and Latini ![Socii and Latini](/assets/img/Aux_Ita_Socii_Hastati.png)
 
     Troop from allied states in Italy.
 
@@ -75,15 +63,11 @@ A legion consisted of 10 maniples of 120 hastati, 10 maniples of 120 principes a
 
 Roman consul Gaius Marius carried out a programme of reform known as Marian reforms. From seasoned conscripts to voluntary or professional army. All citizens were eligible into the legion now regardless of wealth or social class.
 
-- Legionary
-
-  ![Legionary](/assets/img/Rom_Legionaries.png)
+- Legionary ![Legionary](/assets/img/Rom_Legionaries.png)
 
   All classes of heavy infantry are formed into one homogeneous type.
 
-- Evocatus
-
-  ![Evocatus](/assets/img/Rom_Evocati_Cohort.png)
+- Evocatus ![Evocatus](/assets/img/Rom_Evocati_Cohort.png)
 
   Soldiers who had served out their time and obtained honorable discharges (honesta missio) but had voluntarily enlisted again at the invitation of the consul or other commander.
 
@@ -99,8 +83,6 @@ Each legion was partnered with an approximately equal number of auxiliae troops.
 
 The structure remains the same. But more non-roman enter the legion and more professional armies.
 
-- Praetorian Guard
-
-  ![Praetorian Guard](/assets/img/Rom_Praetorian_Guard.png)
+- Praetorian Guard ![Praetorian Guard](/assets/img/Rom_Praetorian_Guard.png)
 
   A new type dedicated to the protection of the Emperor.

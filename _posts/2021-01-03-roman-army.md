@@ -105,6 +105,6 @@ The structure remains the same. But more non-roman enter the legion and more pro
 
 - Praetorian Guard
 
-  ![Praetorian Guard](Rom_Praetorian_Guard.png)
+  ![Praetorian Guard](/assets/img/Rom_Praetorian_Guard.png)
 
   A new type dedicated to the protection of the Emperor.

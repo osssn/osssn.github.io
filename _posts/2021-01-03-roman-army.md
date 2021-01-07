@@ -10,17 +10,13 @@ tags:
 
 ## Hoplites (early Roman republic, 578 BC - c. 315 BC)
 
-- Hoplite
-
-  ![Hoplite](/assets/img/Aux_Gre_Hoplites.png)
+- Hoplite ![Hoplite](/assets/img/Aux_Gre_Hoplites.png)
 
   Infantry with spears and shields. Often fight in phalanx formation. Originated from Ancient Greek city-states.
 
 - Equites
 
-  ![Equites](/assets/img/Rom_Equites.png)
-
-  Almost the highest rank in the property-based classes of Rome, just below the senatorial class. They served as cavalry.
+  ![Equites](/assets/img/Rom_Equites.png) Almost the highest rank in the property-based classes of Rome, just below the senatorial class. They served as cavalry.
 
 ## Manipular legion (mid Roman republic, 315-107 BC)
 

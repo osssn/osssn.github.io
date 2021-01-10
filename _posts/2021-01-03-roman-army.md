@@ -45,7 +45,7 @@ tags:
 
     Front line light infantry and skirmisher. Youngest and poorest with no armor. Equipped with darts (javelin), a *gladius* and a *parma* (small wooden shield). Descended from earlier class of Leves.
 
-  - Equites
+  - Equites ![Equites](/assets/img/Rom_Equites.png)
 
   - Rorarii ![Rorarii](/assets/img/Rom_Rorarii.png)
 

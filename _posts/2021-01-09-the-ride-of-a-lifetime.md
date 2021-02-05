@@ -26,4 +26,18 @@ It took 5 minutes in my career to learn priority is important. Maybe 5 days to l
 
 When you are busy enough, it is natural to fall into the trap of satisfying everyone, especially when you can still push for it. But making everyone happy only brings in a false sense of achievement. It does not bring good end result. It takes courage and confidence to say no to people or to yourself. You need to really give up something in exchange of a future you bet on. Being productive but greedy is often being mediocre.
 
+## 2. Management
+
+I have heard a lot of management methodologies in my career, many of which are contradicting each other. Now I am starting to believe that there is no such thing as management methodology. Management is the art of balance. The content is often changing and sometimes going in totally different directions under different scenarios.
+
+Here is an excerpt of Iger on pressure management:
+
+> There’s no rule book for how to manage this kind of challenge, but in general, you have to try to recognize that when the stakes of a project are very high, there’s not much to be gained from putting additional pressure on the people working on it.
+>
+> Projecting your anxiety onto your team is counterproductive.
+>
+> It’s subtle, but there’s a difference between communicating that you share their stress—that you’re in it with them—and communicating that you need them to deliver in order to alleviate your stress.
+
+It makes a lot sense, though I have also seen some managers doing the opposite and get things done.
+
 ★★★★☆

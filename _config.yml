@@ -63,7 +63,7 @@ include:
 logo: "/assets/img/ocean.png"
 author:
   name: "Welcome to Rapture!"
-  bio: "These are some random stuff I wrote since I was a kid. Please cooperate and don't read them. But do check out some more serious stuff below &darr;"
+  bio: "Some random stuff I wrote since I was a kid."
   links:
     - label: ":heart: Noob Coding"
       icon: "hidden"

@@ -23,6 +23,12 @@ a {
 .custom-white, footer .social-icons .custom-white {
     color: white;
 }
+.layout--home .archive__item-title a[rel="permalink"]::before {
+    left: auto;
+    top: auto;
+    right: auto;
+    bottom: auto;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
